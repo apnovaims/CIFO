@@ -1,0 +1,8 @@
+numpy
+matplotlib
+Pillow
+ipykernel
+optuna
+plotly
+pandas
+scikit-learn
